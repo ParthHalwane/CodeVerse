@@ -20,7 +20,7 @@ app.use(express.static(path.join(__dirname, "public"))) // Serve static files
 const server = http.createServer(app)
 const io = new Server(server, {
 	cors: {
-	    origin: "https://codeverse-2.onrender.com/",
+	    origin: "https://codeverse-2.onrender.com",
 	    methods: ["GET", "POST"],
 	    credentials: true,
   	},
