@@ -11,7 +11,7 @@ services:
     networks:
       - CodeVerse
     ports:
-      - "3000:3000"
+      - "10000:10000"
 
   client:
     container_name: codeverse-client
