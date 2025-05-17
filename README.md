@@ -58,7 +58,7 @@ You can view the live preview of the project [here](https://codeverse-2.onrender
 
 ## 🔮 Features for Next Release
 - **Expand the Scope:** To expand the scope beyond just programming, by adding real-time collaborative project development.
-- **Tech stack specific environment:** To Develop a console and a preview window to see the web pages. For example, in case of vite+react, to start the server type "npm run dev" in the console to start the web page and preview will be visible on the preview window.
+- **Tech stack specific environment:** To Develop a console and a preview window to view the web pages. For example, in case of vite+react, to start the server type "npm run dev" in the console and preview will be visible on the preview window.
 
 ## 🧾 License
 
