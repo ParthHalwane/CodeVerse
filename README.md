@@ -2,6 +2,9 @@
   <img src="https://github.com/user-attachments/assets/95c5f961-82af-4384-b396-72e2b5e17418" style="width:80%;" />
 </p>
 
+[![Watch the demo](https://img.youtube.com/vi/bN1pSdE8klc/0.jpg)](https://youtu.be/bN1pSdE8klc)
+
+
 <b>SOMETIMES THE WEBSITE MAY NOT WORK DUE TO THE USAGE OF WEBSOCKETS WHICH HAS LIMITATIONS ON HOSTING SERVICES LIKE VERCEL AND RENDER.</b>
 
 A real-time collaborative code editor that enables multiple users to join a shared room and work together seamlessly. Users can generate or join rooms using unique IDs, allowing for instant, synchronized coding sessions with live updates.
