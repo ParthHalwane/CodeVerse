@@ -2,7 +2,10 @@
   <img src="https://github.com/user-attachments/assets/95c5f961-82af-4384-b396-72e2b5e17418" style="width:80%;" />
 </p>
 
-[![Watch the demo](https://img.youtube.com/vi/bN1pSdE8klc/0.jpg)](https://youtu.be/bN1pSdE8klc)
+<video width="640" height="360" controls>
+  <source src="https://youtu.be/bN1pSdE8klc" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 <b>SOMETIMES THE WEBSITE MAY NOT WORK DUE TO THE USAGE OF WEBSOCKETS WHICH HAS LIMITATIONS ON HOSTING SERVICES LIKE VERCEL AND RENDER.</b>
