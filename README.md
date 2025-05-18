@@ -2,7 +2,8 @@
   <img src="https://github.com/ParthHalwane/CodeVerse/blob/main/client/src/assets/logo.png" style="width:80%;" />
 </p>
 
-<p>🎥 Watch Demo Video : https://github.com/user-attachments/assets/0a6ff380-8d6d-4d67-a151-e7be326e30ef</p>
+<p>🎥 Watch Demo Video : https://youtu.be/bN1pSdE8klc</p>
+<video src="https://github.com/user-attachments/assets/0a6ff380-8d6d-4d67-a151-e7be326e30ef"></video>
 
 <b>SOMETIMES THE WEBSITE MAY NOT WORK DUE TO THE USAGE OF WEBSOCKETS WHICH HAS LIMITATIONS ON HOSTING SERVICES LIKE VERCEL AND RENDER.</b>
 
