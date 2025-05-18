@@ -3,7 +3,8 @@
 </p>
 
 <h2 align="center">🎥 Watch Demo Video</h2>
-https://github.com/user-attachments/assets/a2c1a10c-6fe0-4bc7-8edb-69157177858a
+[▶️ Watch Demo Video](https://github.com/user-attachments/assets/a2c1a10c-6fe0-4bc7-8edb-69157177858a)
+
 
 <p align="center">
   <a href="https://youtu.be/bN1pSdE8klc">
