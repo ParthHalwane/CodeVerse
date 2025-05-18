@@ -3,16 +3,15 @@
 </p>
 
 <h2 align="center">🎥 Watch Demo Video</h2>
+https://github.com/user-attachments/assets/0a6ff380-8d6d-4d67-a151-e7be326e30ef
 [▶️ Watch Demo Video]()
 
 
 <p align="center">
   <a href="https://youtu.be/bN1pSdE8klc">
     <img src="https://img.youtube.com/vi/bN1pSdE8klc/0.jpg" alt="Watch the demo" width="600">
-    https://github.com/user-attachments/assets/a2c1a10c-6fe0-4bc7-8edb-69157177858a
   </a>
 </p>
-
 
 
 <b>SOMETIMES THE WEBSITE MAY NOT WORK DUE TO THE USAGE OF WEBSOCKETS WHICH HAS LIMITATIONS ON HOSTING SERVICES LIKE VERCEL AND RENDER.</b>
