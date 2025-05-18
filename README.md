@@ -7,6 +7,7 @@
 <p>🎥 Watch Demo Video on Youtube : https://youtu.be/bN1pSdE8klc</p>
 <b>SOMETIMES THE WEBSITE MAY NOT WORK DUE TO THE USAGE OF WEBSOCKETS WHICH HAS LIMITATIONS ON HOSTING SERVICES LIKE VERCEL AND RENDER.</b>
 <br>
+<h2 align="center">About the project</h2>
 A real-time collaborative code editor that enables multiple users to join a shared room and work together seamlessly. Users can generate or join rooms using unique IDs, allowing for instant, synchronized coding sessions with live updates.
 
 ## 🔮 Features
