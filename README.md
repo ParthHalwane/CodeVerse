@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95c5f961-82af-4384-b396-72e2b5e17418" style="width:80%;" />
+  <img src="https://github.com/ParthHalwane/CodeVerse/blob/main/client/src/assets/logo.png" style="width:80%;" />
 </p>
 
 <h2 align="center">🎥 Watch Demo Video</h2>
