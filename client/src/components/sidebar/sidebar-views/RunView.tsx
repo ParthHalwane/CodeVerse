@@ -67,7 +67,7 @@ function RunView() {
                     onChange={(e) => setInput(e.target.value)}
                 />
                 <button
-                    className="flex w-full justify-center rounded-md bg-primary p-2 font-bold text-black outline-none disabled:cursor-not-allowed disabled:opacity-50"
+                    className="flex w-full justify-center rounded-md bg-pink-500 p-2 font-bold text-black outline-none disabled:cursor-not-allowed disabled:opacity-50"
                     onClick={runCode}
                     disabled={isRunning}
                 >

@@ -5,7 +5,7 @@ function Footer() {
                 Build with ❤️ by{" "}
                 <a
                     href="https://github.com/parthhalwane"
-                    className="text-primary underline underline-offset-1"
+                    className="text-pink-500 underline underline-offset-1"
                 >
                     parthhalwane
                 </a>
