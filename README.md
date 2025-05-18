@@ -2,9 +2,9 @@
   <img src="https://github.com/ParthHalwane/CodeVerse/blob/main/client/src/assets/logo.png" style="width:80%;" />
 </p>
 
-<p>🎥 Watch Demo Video : https://youtu.be/bN1pSdE8klc</p>
+<h2 align="center">🎥 Watch Demo Video</h2>
 <video src="https://github.com/user-attachments/assets/0a6ff380-8d6d-4d67-a151-e7be326e30ef"></video>
-
+<p>🎥 Watch Demo Video on Youtube : https://youtu.be/bN1pSdE8klc</p>
 <b>SOMETIMES THE WEBSITE MAY NOT WORK DUE TO THE USAGE OF WEBSOCKETS WHICH HAS LIMITATIONS ON HOSTING SERVICES LIKE VERCEL AND RENDER.</b>
 
 A real-time collaborative code editor that enables multiple users to join a shared room and work together seamlessly. Users can generate or join rooms using unique IDs, allowing for instant, synchronized coding sessions with live updates.
