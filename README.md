@@ -3,12 +3,13 @@
 </p>
 
 <h2 align="center">🎥 Watch Demo Video</h2>
-[▶️ Watch Demo Video](https://github.com/user-attachments/assets/a2c1a10c-6fe0-4bc7-8edb-69157177858a)
+[▶️ Watch Demo Video]()
 
 
 <p align="center">
   <a href="https://youtu.be/bN1pSdE8klc">
     <img src="https://img.youtube.com/vi/bN1pSdE8klc/0.jpg" alt="Watch the demo" width="600">
+    https://github.com/user-attachments/assets/a2c1a10c-6fe0-4bc7-8edb-69157177858a
   </a>
 </p>
 
